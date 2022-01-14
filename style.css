@@ -65,5 +65,21 @@ h1{
     padding-left: 20px;
     box-shadow: 10px 10px 40px;
     border-radius: 10px;
-    
+}
+
+#experience-devoloper{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,purple);
+    border-image-slice: 1;
+}
+
+#junioir-developer{
+    border-left: 7px solid;
+    border-image: linear-gradient(tomato, yellow);
+    border-image-slice: 1;
+
+}
+
+footer{
+    text-align: center;
 }
