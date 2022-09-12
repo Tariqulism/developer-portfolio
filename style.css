@@ -37,9 +37,18 @@ h2 {
     width: 80%;
 }
 
-.link-button {
+.link-button-two {
     text-decoration: none;
-    background-image: linear-gradient(salmon, orange);
+    background-image: linear-gradient(salmon, yellow);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.link-button-one {
+    text-decoration: none;
+    background-image: linear-gradient(blue, skyblue);
     color: white;
     font-weight: 700;
     padding: 10px 40px;
